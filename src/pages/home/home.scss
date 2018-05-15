@@ -1,0 +1,34 @@
+page-home {
+    .btnsuraaa{
+        width: 100%;
+        text-align: center;
+        background-size: 100% 100%;
+        color: WHITE;
+        font-size: 28px;
+        padding: 10px 0;
+        margin: 10px 0;
+        border-radius: 10px;
+        background-image: url('../assets/imgs/bg.png');
+    }
+    .text-input {
+        text-align: center;
+    }
+    ion-slides {  
+       .row{
+        position: absolute;
+        top: 50px;
+        width: 100%;
+       }
+    }
+    .exit{
+        width: 100%;
+        text-align: center;
+        background-size: 100% 100%;
+        font-weight: bold;
+        background-color: #353032;
+        margin-top: 100px;
+        height: 50px;
+        font-size: 20px;
+        border-radius: 10px;
+    }
+}
